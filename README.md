@@ -8,4 +8,4 @@ The aim of our project is to utilize recent developments in medical imaging hard
 
 Our goal is to demonstrate the clinical utility of a novel approach of imaging including training, preparation and the use of the tracking device in children with cerebral palsy that undergo MRI scans for diagnostic purposes. Results from this project can be used when the new dedicated childhood brain damage MRI system funded by the Elsass Foundation is installed at BørneRiget, the new childrens’s hospital to open in Copenhagen in 2024. 
 
-You can read moe about the project here: https://sites.google.com/view/melanieganz/research-projects/imaging-children-without-anesthesia 
+You can read more about the project here: https://sites.google.com/view/melanieganz/research-projects/imaging-children-without-anesthesia 
